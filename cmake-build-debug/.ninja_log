@@ -1,0 +1,6 @@
+# ninja log v5
+6	1670	7301871369974341	build.ninja	a2b5944af0b548e2
+1	1946	7301871950652050	CMakeFiles/TareaAlgoritmo_Posicion_de_Arreglos.dir/main.cpp.obj	c6d2b60bbeafd19b
+1949	2266	7301871953817833	TareaAlgoritmo_Posicion_de_Arreglos.exe	b91599232ac8e772
+4	484	7301873266903274	CMakeFiles/TareaAlgoritmo_Posicion_de_Arreglos.dir/main.cpp.obj	c6d2b60bbeafd19b
+485	594	7301873267973515	TareaAlgoritmo_Posicion_de_Arreglos.exe	b91599232ac8e772

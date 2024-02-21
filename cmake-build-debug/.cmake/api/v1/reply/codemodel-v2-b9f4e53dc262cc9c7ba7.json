@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TareaAlgoritmo_Posicion_de_Arreglos",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TareaAlgoritmo_Posicion_de_Arreglos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TareaAlgoritmo_Posicion_de_Arreglos-Debug-3ae9fba6cb4d1288f5ab.json",
+					"name" : "TareaAlgoritmo_Posicion_de_Arreglos",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Jonwil/Desktop/TareaAlgoritmo_Posicion_de_Arreglos/cmake-build-debug",
+		"source" : "C:/Users/Jonwil/Desktop/TareaAlgoritmo_Posicion_de_Arreglos"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
